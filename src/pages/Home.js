@@ -206,6 +206,7 @@ const Home = ({ setActive, user, active }) => {
   return (
     <div className="container-fluid pb-4 pt-4 padding">
       <div className="container padding">
+        <h2 className="titles"> JUET FORUM</h2>
         <div className="row mx-0">
           <Trending blogs={trendBlogs} />
           <div className="col-md-8">

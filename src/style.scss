@@ -672,3 +672,34 @@ $yellow:#f5bc04;
 	overflow-y: auto;
 	text-align:justify;
 }
+footer {
+	background: #222;
+	padding: 20px 0;
+	color: #fff;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	.fa-heart {
+		color: red;
+	}
+}
+.titles{
+	font-family: 'Pacifico', cursive;
+	color: #b61b1b;
+	font-size: 30px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px 1px #000;
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-decoration: none;
+	font-weight: 400;
+	font-style: normal;
+	font-variant: normal;
+	font-stretch: normal;
+
+
+	
+}
