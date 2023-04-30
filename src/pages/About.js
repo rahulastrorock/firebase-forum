@@ -6,23 +6,21 @@ const About = () => {
       <div className="col-md-12">
         <div className="row mx-0">
           <p>
-            Contrary to popular belief, Lorem Ipsum is not simply random text.
-            It has roots in a piece of classical Latin literature from 45 BC,
-            making it over 2000 years old. Richard McClintock, a Latin professor
-            at Hampden-Sydney College in Virginia, looked up one of the more
-            obscure Latin words, consectetur, from a Lorem Ipsum passage, and
-            going through the cites of the word in classical literature,
-            discovered the undoubtable source. Lorem Ipsum comes from sections
-            1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes
-            of Good and Evil) by Cicero, written in 45 BC. This book is a
-            treatise on the theory of ethics, very popular during the
-            Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit
-            amet..", comes from a line in section 1.10.32. The standard chunk of
-            Lorem Ipsum used since the 1500s is reproduced below for those
-            interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et
-            Malorum" by Cicero are also reproduced in their exact original form,
-            accompanied by English versions from the 1914 translation by H.
-            Rackham.
+            A forum website is an important social networking tool included in a
+            web application, to facilitate interaction and collaboration with
+            the users. Our project will provide a platform for University
+            Students and their Respective Faculties to convey their messages and
+            thoughts about anything related to the University no matter what the
+            topics. The different topics will have different categories to write
+            in and share their perception. Faculty will have admin control which
+            means they could post without any permission. Hence for students,
+            they will have user control which means they could write anything
+            but their written blog will first go to the admin from whom the post
+            could be deleted, edited, or posted on the blog.
+            <footer>
+              Created with <i className="fa fa-heart"></i> by{" "}
+              <strong>Team RAHUL-- AKHAND -- SANSKAR</strong>
+            </footer>
           </p>
         </div>
       </div>

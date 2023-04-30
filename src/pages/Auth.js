@@ -66,7 +66,7 @@ const Auth = ({ setActive, setUser }) => {
       <div className="container">
         <div className="col-12 text-center">
           <div className="text-center heading py-2">
-            {!signUp ? "Sign-In" : "Sign-Up"}
+            {signUp ? "Sign-Up" : "Sign-In"}
           </div>
         </div>
         <div className="row h-100 justify-content-center align-items-center">

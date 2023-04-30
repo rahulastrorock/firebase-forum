@@ -21,16 +21,17 @@ const initialState = {
   category: "",
   description: "",
   comments: [],
-  likes: []
+  likes: [],
 };
 
 const categoryOption = [
-  "Fashion",
+  "Science & Technology",
   "Technology",
-  "Food",
-  "Politics",
+  "JYC",
+  "Academics",
   "Sports",
-  "Business",
+  "Events",
+  "Others",
 ];
 
 const AddEditBlog = ({ user, setActive }) => {
